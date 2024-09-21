@@ -1,4 +1,4 @@
-# Python Bank Project
+# Bank Management System
 
 ## Description
 This project is a simple banking system implemented in Python. It provides basic functionalities such as user registration with secure password creation, login, balance inquiry, cash deposit, cash withdrawal, and fund transfer. The project uses MySQL for data storage and demonstrates object-oriented programming concepts.
